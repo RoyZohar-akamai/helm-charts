@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.71.0
+
+* Add `datadog.profiling` section to configure Continuous Profiler. Disabled by default.
+
 ## 3.70.0
 
 * Set default `Agent` and `Cluster-Agent` version to `7.56.0`.
