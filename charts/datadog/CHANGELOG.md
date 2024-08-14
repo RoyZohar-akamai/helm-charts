@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.70.1
+
+* Fix a few typos on OTel Agent configs.
+
 ## 3.70.0
 
 * Set default `Agent` and `Cluster-Agent` version to `7.56.0`.
