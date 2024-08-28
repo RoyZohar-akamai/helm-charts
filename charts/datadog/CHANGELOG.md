@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 3.70.6
+
+* Add `admissionregistration.k8s.io/v1/validatingwebhookconfigurations` RBACs to the Cluster Agent.
+
 ## 3.70.5
 
 * Set default `Agent` and `Cluster-Agent` version to `7.56.1`.
